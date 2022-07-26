@@ -1,5 +1,7 @@
 # creator
 
+[中文](./README_CN.md)
+
 Creator is the core brain of the crane project, including the implementation of the crane's core algorithm and the algorithm evaluation module. It helps you better achieve the purpose of increasing efficiency and reducing costs through the iteration of algorithm optimization.
 
 ## Motivation
